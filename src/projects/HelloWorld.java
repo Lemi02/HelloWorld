@@ -10,6 +10,7 @@ public class HelloWorld
 	System.out.println("Oefenen met GitHub");
 	System.out.println("Snap ik dit dan eindelijk?");
 	System.out.println("Dat zou wel tijd worden");
+	System.out.println("Nieuwe branch aangemaakt");
     }
 
 }
